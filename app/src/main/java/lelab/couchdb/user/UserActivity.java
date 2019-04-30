@@ -38,6 +38,7 @@ import lelab.couchdb.TimeHelper;
 import lelab.couchdb.db.DatabaseManager;
 import lelab.couchdb.model.User;
 
+//test revert
 public class UserActivity extends AppCompatActivity {
     private static final int count = 10;
     public static final String TAG = "CouchDbApp";
